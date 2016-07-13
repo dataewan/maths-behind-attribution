@@ -1,2 +1,0 @@
-
-## Maths behind attribution modelling
